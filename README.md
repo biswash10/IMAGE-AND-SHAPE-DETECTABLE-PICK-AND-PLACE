@@ -231,8 +231,4 @@ This project demonstrates the integration of machine vision and robotics for aut
 
 ---
 
-# . Repository
 
-Project Repository:
-
-https://github.com/diwaskharel-afk/IMAGE-AND-SHAPE-DETECTABLE-PICK-AND-PLACE
